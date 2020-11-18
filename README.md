@@ -1,6 +1,6 @@
-# sapper-template
+# sapper-sass-template
 
-The default template for setting up a [Sapper](https://github.com/sveltejs/sapper) project. Can use either Rollup or webpack as bundler.
+A sass enabled template for setting up a [Sapper](https://github.com/sveltejs/sapper) project. Only uses Rollup as bundler.
 
 
 ## Getting started
@@ -11,13 +11,7 @@ The default template for setting up a [Sapper](https://github.com/sveltejs/sappe
 To create a new Sapper project based on Rollup locally, run
 
 ```bash
-npx degit "sveltejs/sapper-template#rollup" my-app
-```
-
-For a webpack-based project, instead run
-
-```bash
-npx degit "sveltejs/sapper-template#webpack" my-app
+npx degit "BLTGV/sapper-sass-template" my-app
 ```
 
 [`degit`](https://github.com/Rich-Harris/degit) is a scaffolding tool that lets you create a directory from a branch in a repository.
@@ -29,7 +23,7 @@ Replace `my-app` with the path where you wish to create the project.
 
 Alternatively, you can create the new project as a GitHub repository using GitHub's template feature.
 
-Go to either [sapper-template-rollup](https://github.com/sveltejs/sapper-template-rollup) or [sapper-template-webpack](https://github.com/sveltejs/sapper-template-webpack) and click on "Use this template" to create a new project repository initialized by the template.
+Go to [sapper-sass-template](https://github.com/BLTGV/sapper-sass-template) and click on "Use this template" to create a new project repository initialized by the template.
 
 
 ### Running the project
